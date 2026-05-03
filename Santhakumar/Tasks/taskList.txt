@@ -1,0 +1,1 @@
+taskGeneratorDBE_HighNormDisp1_1 3 3 1e-12 - - 10. Transformation RCM SparseSYM EnergyIncr 1e-08 100 Newton 0.001 EnergyIncr EnergyIncr EnergyIncr EnergyIncr NormDispIncr NormDispIncr 1e-07 1e-06 1e-05 1e-04 1e-05 1e-04 1000 500 100 1 0 1 0 1 0 0 1 1 0 1 0 1 0 0 1 1 0 1 0 1 0 0 1 1 0 1 0 1 0 0 1 1 0 1 0 1 0 0 1 1 0 1 0 1 0 0 1
